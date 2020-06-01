@@ -1,5 +1,6 @@
 <head>
 </head>
 <body>
-  <h>Welcome to GuanBam's page<h>
+  <div>Welcome to GuanBam's page</div>
+  <div></div>
 </body>
