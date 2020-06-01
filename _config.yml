@@ -1,6 +1,6 @@
 # Site settings
 title: GuanBam's Blog
 SEOTitle: GuanBam's Blog
-#header-img: img/TitleBackground.jpg
+header-img: img/TitleBackground.jpg
 description: "GuanBam's Personal Blog"
 url: "https://guanbam.github.io"
